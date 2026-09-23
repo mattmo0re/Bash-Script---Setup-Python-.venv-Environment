@@ -4,4 +4,4 @@
 
 It will run the installation, create the folder, source it, and instantly pivot your current terminal screen into the active (.venv) environment. When you are done working. 
 
-### Type exit to close it.
+### Type ``` exit ``` to close it.
